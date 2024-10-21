@@ -1,6 +1,6 @@
 # api id, hash
-API_ID = 1488
-API_HASH = 'abcde1488'
+API_ID = 23454087
+API_HASH = '97be8685093791ec29459bcd46776f0a'
 
 REF_LINK = 'https://t.me/BlumCryptoBot/app?startapp=ref_GY2Vsk7swg'
 
